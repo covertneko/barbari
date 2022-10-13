@@ -1,4 +1,4 @@
-pcb-tools>=0.1.6,<1
+pcb-tools>=0.1,<1
 appdirs>=1.4.3,<2
-rich>=9.11.1,<10
-pyyaml>=5.4.1,<6
+rich>=12.6.0,<13
+pyyaml>=6.0,<7
